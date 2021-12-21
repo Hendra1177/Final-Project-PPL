@@ -1,0 +1,13 @@
+{
+  "baseUrl": "https://library.polinema.ac.id/",
+  "ignoreTestFiles": ["**/1-getting-started/*", "**/2-advanced-examples/*"],
+  "reporter": "mochawesome",
+  "reporterOptions": {
+    "reportDir": "cypress/results",
+    "overwrite": false,
+    "html": false,
+    "json": true,
+    "videoUploadOnPasses": false
+  },
+  "chromeWebSecurity": false
+}
