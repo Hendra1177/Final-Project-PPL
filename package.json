@@ -1,5 +1,5 @@
 {
-  "name": "uas_ppl_kelompok1",
+  "name": "final_project_kelompok_1",
   "version": "0.0.1",
   "description": "Project UAS Kelompok 1 Pengujian Perangkat Lunak TI3B",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DhimasArbi/UAS-PPL-Kelompok1.git"
+    "url": "git+https://github.com/Aula-Faridah/Final-Project-PPL.git"
   },
   "keywords": [
     "Cypress",
@@ -19,9 +19,9 @@
   "author": "Kelompok 1",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DhimasArbi/UAS-PPL-Kelompok1/issues"
+    "url": "https://github.com/Aula-Faridah/Final-Project-PPL/issues"
   },
-  "homepage": "https://github.com/DhimasArbi/UAS-PPL-Kelompok1#readme",
+  "homepage": "https://github.com/Aula-Faridah/Final-Project-PPL#readme",
   "devDependencies": {
     "cypress": "^9.1.1",
     "mochawesome": "^7.0.1",
