@@ -34,8 +34,5 @@ context('Cypress Sort', () => {
     it('Filter Subyek & Penerbit & tahun terbit', ()=>{
         cy.get(':nth-child(7) > .panel-header > button').click()
         cy.get('.list-single > :nth-child(3)').click()
-
-
-        
     })
 })
